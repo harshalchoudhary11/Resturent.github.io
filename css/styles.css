@@ -136,7 +136,7 @@ body {
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/special.png') no-repeat;
+  background: url('../images/Food.png') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
