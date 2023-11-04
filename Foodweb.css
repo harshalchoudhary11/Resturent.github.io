@@ -83,7 +83,7 @@ nav input{
 .crd{
     display: flex;
     /* justify-content: center; */
-    margin-left: 115px;
+    margin-left: 213px;
     color: black;
 }
 .crd .card {
@@ -152,7 +152,7 @@ nav input{
     position: relative;
     display: flex;
     overflow: hidden;
-    margin: auto;
+    margin-left:307px;
     width: 800px;
     height: 400px;
     margin-top: 63px;
@@ -169,6 +169,13 @@ nav input{
      
 
 }
+.revh1{
+    font-size: 44px;
+    margin-top: 60px;
+    margin-left: 34pc;
+    width: auto;
+    
+}
 .customer img{
     width: 33%;
     border-radius: 50%;
@@ -182,13 +189,13 @@ nav input{
     text-align: center;
     font-size: 44px;
     margin-top: 53px;
-    margin-left: 22px;
+    margin-left: 197px;
 }
 .head span{
     color: rgb(255, 119, 0);
 }
 .btn{
-    text-align: center;
+    margin-left: 32.5pc;
 }
 .btn button{
     width: 140px;
